@@ -7,10 +7,7 @@ Here are the steps you’ll need to take before the start of the tutorial:
 ### 1. Download Anaconda
 I highly recommend that you download [the Python 3.7 version](https://www.anaconda.com/download/).
 
-### 2. Download the Jupyter Notebooks
-Clone or download this [Github repository](https://github.com/adashofdata/nlp-in-python-tutorial), so you have access to all the Jupyter Notebooks (.ipynb extension) in the tutorial. **Note the green button on the right side of the screen that says `Clone or download`.** If you know how to use Github, go ahead and clone the repo. If you don't know how to use Github, you can also just download the zip file and unzip it on your laptop.
-
-### 3. Launch Anaconda and Open a Jupyter Notebook
+### 2. Launch Anaconda and Open a Jupyter Notebook
 
 *Windows:*
 Open the Anaconda Navigator program. You should see the Jupyter Notebook logo. Below the logo, click Launch. A browser window should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open 0-Hello-World.ipynb. Follow the instructions in the notebook.
@@ -18,7 +15,7 @@ Open the Anaconda Navigator program. You should see the Jupyter Notebook logo. B
 *Mac/Linux:*
 Open a terminal. Type ```jupyter notebook```. A browser should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open 0-Hello-World.ipynb. Follow the instructions in the notebook.
 
-### 4. Install a Few Additional Packages
+### 3. Install a Few Additional Packages
 
 There are a few additional packages we'll be using during the tutorial that are not included when you download Anaconda - wordcloud, textblob and gensim.
 
